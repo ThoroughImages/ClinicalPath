@@ -1,0 +1,65 @@
+factor,doctor_number,Without_assistance,With_assistance
+AUC,#1,0.8908,0.9528
+AUC,#2,0.832,0.9077
+AUC,#3,0.8995,0.8797
+AUC,#4,0.7465,0.896
+AUC,#5,0.86,0.906
+AUC,#6,0.9495,0.9533
+AUC,#7,0.7467,0.8873
+AUC,#8,0.932,0.9668
+AUC,#9,0.819,0.904
+AUC,#10,0.8118,0.8413
+AUC,#11,0.8895,0.8993
+AUC,#12,0.9575,0.9297
+AUC,#13,0.7753,0.8707
+AUC,#14,0.953,0.9353
+AUC,#15,0.924,0.967
+AUC,#16,0.8223,0.882
+Sensitivity,#1,0.78,0.88
+Sensitivity,#2,0.84,0.96
+Sensitivity,#3,0.98,0.92
+Sensitivity,#4,0.66,0.94
+Sensitivity,#5,0.82,0.98
+Sensitivity,#6,0.82,0.92
+Sensitivity,#7,0.78,0.84
+Sensitivity,#8,0.96,0.98
+Sensitivity,#9,0.64,0.9
+Sensitivity,#10,0.96,0.92
+Sensitivity,#11,0.8,0.78
+Sensitivity,#12,0.98,1
+Sensitivity,#13,0.58,0.78
+Sensitivity,#14,0.98,0.94
+Sensitivity,#15,0.96,1
+Sensitivity,#16,0.7,0.76
+Specificity,#1,0.9333,0.95
+Specificity,#2,0.7667,0.7333
+Specificity,#3,0.6333,0.7333
+Specificity,#4,0.7667,0.7167
+Specificity,#5,0.8,0.6
+Specificity,#6,0.9833,0.85
+Specificity,#7,0.5833,0.7333
+Specificity,#8,0.7667,0.8167
+Specificity,#9,0.85,0.7833
+Specificity,#10,0.5167,0.5
+Specificity,#11,0.8833,0.9333
+Specificity,#12,0.85,0.8167
+Specificity,#13,0.9333,0.85
+Specificity,#14,0.8167,0.8
+Specificity,#15,0.8,0.8
+Specificity,#16,0.9,0.9
+The average time,#1,26.87,18.01
+The average time,#2,27.96,26.04
+The average time,#3,26.78,20.47
+The average time,#4,22.17,18.88
+The average time,#5,27.56,17.15
+The average time,#6,36.7,23.86
+The average time,#7,28.68,22.35
+The average time,#8,34.46,22.36
+The average time,#9,24.33,24.98
+The average time,#10,22.92,28.27
+The average time,#11,18.38,20.65
+The average time,#12,32.67,28.2
+The average time,#13,22.13,28.15
+The average time,#14,19.75,16.45
+The average time,#15,28.79,26.52
+The average time,#16,21.76,20.56
